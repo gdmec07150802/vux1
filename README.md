@@ -2,11 +2,8 @@
 
 
 [![GitHub issues](https://img.shields.io/github/issues/gdmec07150802/vuxprj.svg)](https://github.com/gdmec07150802/vuxprj/issues)
-
 ![lalala](https://github.com/gdmec07150802/vuxprj/blob/master/src/assets/logo.png)
-
 [![GitHub forks](https://img.shields.io/github/forks/gdmec07150802/vuxprj.svg)](https://github.com/gdmec07150802/vuxprj/network)
-
 [![GitHub stars](https://img.shields.io/github/stars/gdmec07150802/vuxprj.svg)](https://github.com/gdmec07150802/vuxprj/stargazers)
 
 # vuxprj
