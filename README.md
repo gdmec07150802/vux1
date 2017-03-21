@@ -1,5 +1,5 @@
 
-vuxprj/src/assets/logo.png
+https://github.com/gdmec07150802/vuxprj/blob/master/src/assets/logo.png
 [![GitHub issues](https://img.shields.io/github/issues/gdmec07150802/vuxprj.svg)](https://github.com/gdmec07150802/vuxprj/issues)
 
 [![GitHub forks](https://img.shields.io/github/forks/gdmec07150802/vuxprj.svg)](https://github.com/gdmec07150802/vuxprj/network)
