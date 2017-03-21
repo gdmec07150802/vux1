@@ -1,5 +1,5 @@
 # vuxprj
-
+[![GitHub issues](https://img.shields.io/github/issues/gdmec07150802/vuxprj.svg)](https://github.com/gdmec07150802/vuxprj/issues)
 > A Vue.js project
 
 ## Build Setup
